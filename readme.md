@@ -23,6 +23,6 @@ He has some very specific design requirements in mind, which surprised you becau
 
 Before you even think about coding, discuss and plan this project with your team. The first step of planning is to build a wireframe, this way you all have a clear goal in mind of what you’re building. Don’t worry about what colors or fonts you will use in the wireframe. Just create a general mockup of what Randy has described.
 
-# WireFrame
+### Wireframe
 
-[Figma](https://www.figma.com/file/cC5akQYEJ51rHIytGsqn2e/Team-1-Macho-Moods?type=design&node-id=0-1&mode=design&t=BV5lzfAH0tlouPxy-0)
+[MachoMoods](https://www.figma.com/file/cC5akQYEJ51rHIytGsqn2e/Team-1-Macho-Moods?type=design&node-id=0-1&mode=design&t=CA14PBLgbVD7t3aj-0)
