@@ -8,3 +8,7 @@ h1 {
   font-weight: 400;
   line-height: normal;
 }
+article,
+section {
+  border: 1px solid black;
+}
