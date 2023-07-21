@@ -12,3 +12,8 @@ article,
 section {
   border: 1px solid black;
 }
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
